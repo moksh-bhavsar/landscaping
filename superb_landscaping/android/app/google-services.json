@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "587317277397",
+    "project_id": "superb-landscaping",
+    "storage_bucket": "superb-landscaping.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587317277397:android:3d55035dba4cf0e736685c",
+        "android_client_info": {
+          "package_name": "com.superb_landscaping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587317277397-blpbf78kqcg8sjdirkk5a93v95tplilg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.superb_landscaping",
+            "certificate_hash": "94e814457942b6bb52849e968ad86aa3ce5746e9"
+          }
+        },
+        {
+          "client_id": "587317277397-om4ksk5ci6iipvh9ggkdcjumoqie0ds8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0R6bommpw3GNzRcZ36Bk5riuuzW4R2QY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587317277397-om4ksk5ci6iipvh9ggkdcjumoqie0ds8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "587317277397-iaqjavl0fgedptp0gau7n8f8fia893us.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.superbLandscaping"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
